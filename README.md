@@ -25,6 +25,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <img src="https://imgflip.com/gif/4gn6pc" width=250><br>
 
+<img src="https://imgflip.com/embed/4gn6pc" width=250><br>
+
+
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:205.38%;position:relative;"><iframe width="260" height="534" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4gn6pc"></iframe></div><p><a href="https://imgflip.com/gif/4gn6pc">via Imgflip</a></p></div>
+
 ### Notes
 Describe any challenges encountered while building the app.
 accidentally stashed my code while figuring out how to pull/push on github and everything I had got deleted. 
