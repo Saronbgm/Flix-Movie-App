@@ -13,7 +13,7 @@
 ### App Walkthrough GIF
 
 
-<img src="Flix2.gif" width=250><br>
+<img src="4hd0h9.gif" width=250><br>
 
 ### Notes
 A challenge that I faced was getting the SuperHero movie grid to show up, even after linking it with the API. 
